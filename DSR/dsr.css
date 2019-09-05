@@ -1,0 +1,161 @@
+body {
+
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+
+
+label {
+
+    font-weight: 500;
+    color: #800080;
+
+}
+
+
+
+input, button {
+
+    border-radius: 0px !important;
+
+    height: 50px !important;
+
+}
+
+
+
+.form-signin {
+
+    max-width: 500px;
+
+    background-color: #f1f1f1;
+
+    margin: 100px auto;
+
+    padding: 50px 35px;
+
+}
+
+
+
+.header h4 {
+
+   background-color:#666;
+  padding: 30px;
+  text-align: center;
+  font-size: 35px;
+   margin-top: 13px;
+  color: white;
+}
+
+
+
+
+
+
+.main {
+
+    width: 100%;
+
+    height: auto;
+
+    padding: 40px 30px;
+
+}
+
+
+
+.list-group-item-action {
+
+    background: #ffff;
+
+    color: #808000;
+
+    border-radius: 0px !important;
+
+    font-size: 14px;
+
+}
+
+
+
+.right-panel {
+
+    background-color: #ffff;
+
+    padding: 20px 20px;
+
+    margin-bottom: 50px !important;
+
+}
+
+
+
+.form-search {
+
+    padding: 20px 10px;
+
+    margin: 0 auto;
+
+}
+
+
+
+.form-search button, .form-search input {
+
+    height: 40px !important;
+
+}
+
+
+
+.form-search button {
+
+    width: 150px;
+
+}
+
+
+
+.form-upload-dsr {
+
+    padding: 30px 20px;
+
+}
+
+
+
+.form-upload-dsr input {
+
+    height: 35px !important;
+
+}
+
+
+
+.form-upload-dsr button[type="submit"] {
+
+    width: 200px;
+
+    height: 45px !important;
+
+}
+
+
+
+table {
+
+    font-size: 14px;
+
+}
+
+
+
+.footer {
+
+   background-color: #777;;
+  padding: 10px;
+  text-align: center;
+  color: white;
+}
